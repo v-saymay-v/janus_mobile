@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">com.yourcompany.janus_mobile</string>
+
+    <string name="facebook_app_id">1140417249754383</string>
+    <string name="fb_login_protocol_scheme">fb1140417249754383</string>
+
+    <string name="tw_login_protocol_scheme">twittersdk</string>
+
+    <string name="signin_with_apple_scheme">signinwithapple</string>
+    <string name="signin_with_apple_path">/callback</string>
+</resources>

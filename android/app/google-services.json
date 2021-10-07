@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "491786932343",
+    "project_id": "janusmobile3",
+    "storage_bucket": "janusmobile3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491786932343:android:8de2d71a25107d83d9b672",
+        "android_client_info": {
+          "package_name": "com.yourcompany.janus_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491786932343-n72bl83e4ei2hra7s4j5rlj2j3mb68d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBux8emubz22nt3hqw1W8MM-AqQtSeJeNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491786932343-n72bl83e4ei2hra7s4j5rlj2j3mb68d9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "491786932343-pe1e0i2sj9a8mkdmmg6olklm7p1dlak6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.yourcompany.JanusMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
